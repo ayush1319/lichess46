@@ -1,0 +1,2 @@
+# lichess46
+bot
